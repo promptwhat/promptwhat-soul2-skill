@@ -1,0 +1,38 @@
+MIT License
+
+Copyright (c) 2026 promptwhat (@prompt_what)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+SCOPE NOTE / 적용 범위
+
+This MIT license covers the skill itself — SKILL.md, its rules, structure and
+Korean commentary.
+
+It does NOT cover the twelve English source prompts reproduced in
+golden-prompts.md. Those are generations from Higgsfield's official account
+(@skxqw, "Soul Carousels") and are included as reference material for gauging
+prompt density. Rights to those texts remain with their original author.
+Source: https://higgsfield.ai/@skxqw/projects/soul-carousels
+
+이 MIT 라이선스는 스킬 본체(SKILL.md의 규칙·구조·한국어 해설)에만 적용됩니다.
+golden-prompts.md에 실린 영어 원문 12편은 적용 대상이 아니며, 그 권리는 원
+작성자에게 있습니다.
